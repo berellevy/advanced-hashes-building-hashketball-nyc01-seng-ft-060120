@@ -38,7 +38,17 @@ def game_hash
           blocks: 1,
           slam_dunks: 15
         },
-        {},
+        {
+          player_name: "Mason Plumlee",
+          number: 00,
+          shoe: 00,
+          points: 00,
+          rebounds: 00,
+          assists: 00,
+          steals: 00,
+          blocks: 00,
+          slam_dunks: 00
+        },
         {}
       ]
     },
