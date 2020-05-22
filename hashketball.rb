@@ -7,13 +7,14 @@ def game_hash
       players: [
         {
           player_name: "Alan Anderson",
-          number: 00,
-          shoe: 00,
-          points: 00,
-          rebounds: 00,
-          assists: 00,
-          steals: 00,
-          slam_dunks: 00
+          number: 0,
+          shoe: 16,
+          points: 22,
+          rebounds: 12,
+          assists: 12,
+          steals: 3,
+          blocks: 1,
+          slam_dunks: 1
         },
         {
 
