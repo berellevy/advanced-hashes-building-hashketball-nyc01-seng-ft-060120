@@ -100,7 +100,7 @@ def game_hash
           slam_dunks: 5
         },
         {
-          player_name: "",
+          player_name: "Ben Gordon",
           number: 00,
           shoe: 00,
           points: 00,
