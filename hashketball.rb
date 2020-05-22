@@ -66,11 +66,61 @@ def game_hash
       team_name: "Charlotte Hornets",
       colors: ["Turquoise", "Purple"],
       players: [
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          player_name: "Jeff Adrien",
+          number: 00,
+          shoe: 00,
+          points: 00,
+          rebounds: 00,
+          assists: 00,
+          steals: 00,
+          blocks: 00,
+          slam_dunks: 00
+        },
+        {
+          player_name: "",
+          number: 00,
+          shoe: 00,
+          points: 00,
+          rebounds: 00,
+          assists: 00,
+          steals: 00,
+          blocks: 00,
+          slam_dunks: 00
+        },
+        {
+          player_name: "",
+          number: 00,
+          shoe: 00,
+          points: 00,
+          rebounds: 00,
+          assists: 00,
+          steals: 00,
+          blocks: 00,
+          slam_dunks: 00
+        },
+        {
+          player_name: "",
+          number: 00,
+          shoe: 00,
+          points: 00,
+          rebounds: 00,
+          assists: 00,
+          steals: 00,
+          blocks: 00,
+          slam_dunks: 00
+        },
+        {
+          player_name: "",
+          number: 00,
+          shoe: 00,
+          points: 00,
+          rebounds: 00,
+          assists: 00,
+          steals: 00,
+          blocks: 00,
+          slam_dunks: 00
+        }
       ]
     }
   }
