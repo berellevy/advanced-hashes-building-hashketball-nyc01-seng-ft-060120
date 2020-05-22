@@ -89,7 +89,7 @@ def game_hash
           slam_dunks: 10
         },
         {
-          player_name: "",
+          player_name: "DeSanga Diop",
           number: 00,
           shoe: 00,
           points: 00,
