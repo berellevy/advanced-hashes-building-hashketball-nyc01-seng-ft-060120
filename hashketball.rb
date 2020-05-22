@@ -79,14 +79,14 @@ def game_hash
         },
         {
           player_name: "Bismack Biyombo",
-          number: 00,
-          shoe: 00,
-          points: 00,
-          rebounds: 00,
-          assists: 00,
-          steals: 00,
-          blocks: 00,
-          slam_dunks: 00
+          number: 0,
+          shoe: 16,
+          points: 12,
+          rebounds: 4,
+          assists: 7,
+          steals: 22,
+          blocks: 15,
+          slam_dunks: 10
         },
         {
           player_name: "",
