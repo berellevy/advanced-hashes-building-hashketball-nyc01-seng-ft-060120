@@ -101,14 +101,14 @@ def game_hash
         },
         {
           player_name: "Ben Gordon",
-          number: 00,
-          shoe: 00,
-          points: 00,
-          rebounds: 00,
-          assists: 00,
-          steals: 00,
-          blocks: 00,
-          slam_dunks: 00
+          number: 8,
+          shoe: 15,
+          points: 33,
+          rebounds: 3,
+          assists: 2,
+          steals: 1,
+          blocks: 1,
+          slam_dunks: 0
         },
         {
           player_name: "",
